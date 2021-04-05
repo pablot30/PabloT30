@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @PabloT30
+- 👀 I’m interested in Automotive Engineering and Artificial Intelligence.
+- 🌱 I’m currently learning AUTOSAR, Self-Driving Vehicles.
+- 💞️ I’m looking to collaborate on open source projects.
+- 📫 Reach me on torres.pablo@correounivalle.edu.co 
