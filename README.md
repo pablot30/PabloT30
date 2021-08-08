@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @PabloT30
-- 👀 I’m interested in Automotive Engineering and Artificial Intelligence.
-- 🌱 I’m currently learning AUTOSAR, Self-Driving Vehicles.
-- 💞️ I’m looking to collaborate on open source projects.
-- 📫 Reach me on torres.pablo@correounivalle.edu.co 
+- 💡 Hi, I’m Pablo from Colombia.
+- 🚗 Working as Electronic Engineer | Automotive Specialist
+- 💻 Tech hobbies: Ethical Hacking | Hardware Development
+- 📗 Currently reading Artifical Intelligence: A Modern Approach.
+- 📧 Reach me on torres.pablo@correounivalle.edu.co
