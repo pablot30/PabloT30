@@ -1,4 +1,3 @@
-- 💡 Hi, I’m Pablo from Colombia
+- 💡 Hi, I’m Pablo, a Colombian living in Germany.
 - 🚗 Working as an Automotive Engineer
 - 💻 Tech hobbies: Ethical Hacking | Hardware Development
-- 📗 Currently reading Artifical Intelligence: A Modern Approach
